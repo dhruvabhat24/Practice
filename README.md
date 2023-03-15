@@ -1,4 +1,5 @@
 # Practice
+![image](https://user-images.githubusercontent.com/122305929/225330380-1c79ce15-ba95-4a5f-9f1e-6bb108cb4005.png)
 ## Practice with Dhruva
 1. CGPA
 2. Comparision
@@ -17,4 +18,4 @@
 
 
 
-![image](https://user-images.githubusercontent.com/122305929/225330380-1c79ce15-ba95-4a5f-9f1e-6bb108cb4005.png)
+
